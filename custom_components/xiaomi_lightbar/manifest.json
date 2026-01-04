@@ -1,12 +1,12 @@
 {
-  "name": "Xiaomi Mi Computer Monitor Light Bar",
+  "name": "Xiaomi Mi Computer Light Bar",
   "domain": "xiaomi_lightbar",
-  "codeowners": [ "@lamperez" ],
+  "codeowners": [ "@sdoe0" ],
   "config_flow": true,
-  "documentation": "https://github.com/lamperez/xiaomi-lightbar-nrf24",
+  "documentation": "https://github.com/sdoe0/ha-xiaomi-lightbar-nrf24",
   "iot_class": "assumed_state",
   "version": "0.1.0",
   "requirements": [
-    "xiaomi_lightbar_nrf24 @git+https://github.com/lamperez/xiaomi-lightbar-nrf24.git"
+    "xiaomi_lightbar_nrf24 @git+https://github.com/sdoe0/ha-xiaomi-lightbar-nrf24.git"
   ]
 }
